@@ -1,6 +1,6 @@
 const Title = () => {
   return (
-    <h1>React World Weather</h1>
+    <h1>Reactで現在のお天気を調べるアプリ</h1>
   )
 }
 
