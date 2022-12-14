@@ -7,6 +7,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
+    {/* 雛形 */}
     <App />
   </React.StrictMode>
 );
